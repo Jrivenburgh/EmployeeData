@@ -1,0 +1,24 @@
+/*==============*/
+/*HEADER AND NAV*/
+/*==============*/
+.jumbotron {
+	text-align: center;
+	background: black;
+	color: white;
+}
+
+
+
+/*============*/
+/*MAIN CONTENT*/
+/*============*/
+.panel-heading {
+	background: blue;
+	color: white;
+}
+
+
+/*======*/
+/*FOOTER*/
+/*======*/
+
